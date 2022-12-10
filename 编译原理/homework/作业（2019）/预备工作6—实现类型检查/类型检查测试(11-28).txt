@@ -1,0 +1,32 @@
+main()
+{
+	int a, b, c;
+	char D4;
+	D4 = 'A';
+	//d = 4; erorr 1
+	a = b = c = 2;
+	//a = D4 = c = 2; error 2
+	//D4 = D4 + a; error 3
+	while (!(a == 3))
+	//while(!2) error 4
+	{
+		if (a <= b && c > 0)
+		//if(D4)  error 5
+		//if(c > 0 && a <= D4) error 6
+		{
+			for (c = 8; c != 3 || c >= 5;)
+			//for (c = 8; 9;)  error 7
+			//for (c = 8; (a + 4) || b;) error 8
+				c = c / 2 + 1;
+		}
+		else
+		{
+			a = 3;
+
+		}
+		b = 1;
+	}
+	output(c);
+	//output(a < b); error 9
+
+}
