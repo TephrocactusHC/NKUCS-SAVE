@@ -17,3 +17,7 @@
 ## 关于知识产权
 本项目仅供自己学习使用， **坚决反对拿本仓库的内容去售卖的行为** ，我的仓库本身就是用来消除信息差的，如果被反过来利用（尤其是有的大一的不会用github），那么完全违背了我的初衷。并且希望尊重知识产权，尤其不要外传老师的PPT。
 # 在使用本仓库的文件之前，请仔细阅读各个文件夹之中的readme。
+
+## 📜 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TephrocactusHC/NKUCS-SAVE&type=Date)](https://star-history.com/#TephrocactusHC/NKUCS-SAVE&Date)
