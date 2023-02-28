@@ -19,6 +19,9 @@
 # 在使用本仓库的文件之前，请仔细阅读各个文件夹之中的readme。
 更新了 **救赎之道，就在其中** ，推荐仔细阅读，里面有很多人想要的东西。很多人不信，这是信息隐藏技术的一次实验的作业，方法是一样的，密码就在里面了。你要是自己破解，也可以，大概i7处理器需要 $10^7$ 天。
 
+# 进度
+本项目在本学期更新完信息隐藏技术(如果没有考试就不会更新在这个仓库之中)以后，就会停止更新。那么至此，NKU计网本科，我所能找到的资料、还有自己用的资料，都在这里了。
+
 ## 📜 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=TephrocactusHC/NKUCS-SAVE&type=Date)](https://star-history.com/#TephrocactusHC/NKUCS-SAVE&Date)
