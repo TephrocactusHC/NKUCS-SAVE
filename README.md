@@ -26,7 +26,7 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=TephrocactusHC/NKUCS-SAVE&type=Date)](https://star-history.com/#TephrocactusHC/NKUCS-SAVE&Date)
 
 
-## Notice
+# Notice
 1. 本项目除因知识产权引起纠纷外，不要提交issue
 2. 我有的资料都开源了，仓库里没有的基本上就是没有了，不要以飞书、微信、issue的方式索要
 3. 仔细阅读所有的readme，我已经说了本仓库不提供实验相关内容怎么还有人要计组实验呢
