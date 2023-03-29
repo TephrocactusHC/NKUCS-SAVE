@@ -24,3 +24,13 @@
 ## 📜 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=TephrocactusHC/NKUCS-SAVE&type=Date)](https://star-history.com/#TephrocactusHC/NKUCS-SAVE&Date)
+
+
+## Notice
+1. 本项目除因知识产权引起纠纷外，不要提交issue
+2. 我有的资料都开源了，仓库里没有的基本上就是没有了，不要以飞书、微信、issue的方式索要
+3. 仔细阅读所有的readme，我已经说了本仓库不提供实验相关内容怎么还有人要计组实验呢
+4. 如果你非要私聊我索要资料，注意礼貌用语，好好斟酌用词，分享资料不是义务
+5. 违反以上四条会被我全渠道拉黑并且把你大名挂在这个readme里
+
+因为虚拟机坏了导致我很多文件都没了，心情很差，以上
