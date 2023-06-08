@@ -1,6 +1,7 @@
 # NKUCS-SAVE
 ## 首先，请STAR
 ## 其次，请follow我
+
 ```                                                                        
                   u888/                                                                                                                                         
          ...''''``88888`'''..                                                         08c                }_                                                     
@@ -90,6 +91,10 @@
 ## 📜 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=TephrocactusHC/NKUCS-SAVE&type=Date)](https://star-history.com/#TephrocactusHC/NKUCS-SAVE&Date)
+## 重磅更新！
+本项目增加了课程[网站](https://tephrocactushc.github.io/NKUCS-SAVE/)。可以有选择性的观看！
+# 友链
+丁神搞的[网站](nkucs.icu)，大家去支持一波吧！
 
 # Notice
 **学习没有捷径，勤奋就是最快的路**，无论哪一门课，遇到困难时的最好办法是好好学习以及询问chatgpt，而不是摆烂并直接向学长学姐索要资料混过去。20级很多人没有任何资料，只有书本和老师讲的课，以及互联网上的一切，但是他们依然可以在很多课程取得95+的成绩，这都来自于他们的努力。这个仓库的资料已经尽力帮助后来的人减少无意义劳动，但终究不能代替你自己学习并掌握知识的过程。很多课程是核心课程，混过去对自己没有半点好处。以下是其他需要注意的：
