@@ -103,7 +103,7 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=TephrocactusHC/NKUCS-SAVE&type=Date)](https://star-history.com/#TephrocactusHC/NKUCS-SAVE&Date)
 ## 重磅更新！
-本项目增加了课程[网站](https://tephrocactushc.github.io/NKUCS-SAVE/)。可以有选择性的观看！
+本项目增加了课程[网站](https://tephrocactushc.github.io/NKUCS-SAVE/)。可以有选择性的观看！课程网站将会在后期由[@JuniMay](https://github.com/JuniMay)负责整理和更新，目前的目录管理有些许的混乱。
 # 友链
 丁神搞的[网站](nkucs.icu)，大家去支持一波吧！
 
