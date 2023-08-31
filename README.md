@@ -92,7 +92,6 @@
 
 有意愿的同学可以提交ISSUE并通过NKU邮箱与我取得联系！
 
-**目前本项目将会委托[@JuniMay](https://github.com/JuniMay)进行整理和更新。**
 
 ## 参与本仓库
 如果你想要参与本项目，提交你自己整理和撰写的复习资料，或者有哪一门课我这里没有的，你想要分享相关资料，都可以通过 NKU邮箱 联系我。我会给你本仓库的权限来push。
@@ -103,8 +102,7 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=TephrocactusHC/NKUCS-SAVE&type=Date)](https://star-history.com/#TephrocactusHC/NKUCS-SAVE&Date)
 ## 重磅更新！
-本项目增加了课程[网站](https://tephrocactushc.github.io/NKUCS-SAVE/)。可以有选择性的观看！课程网站将会在后期由[@JuniMay](https://github.com/JuniMay)负责整理和更新，目前的目录管理有些许的混乱。
-# 友链
+本项目增加了课程[网站](https://tephrocactushc.github.io/NKUCS-SAVE/)。可以有选择性的观看！
 丁神搞的[网站](nkucs.icu)，大家去支持一波吧！
 
 # Notice
